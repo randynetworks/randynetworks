@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Ayoboga Education](https://ayoboga.com/)
 
-- 👨‍💻 All of my projects are available at [Project Randy](https://www.randynetworks.club/podcasts/)
+- 👨‍💻 All of my projects are available at [Project Randy](https://www.randynetworks.club/projects/)
 
 - 📝 I regulary write articles on [Tulisan Randy](https://www.randynetworks.club/notes/)
 
