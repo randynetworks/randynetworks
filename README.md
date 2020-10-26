@@ -9,7 +9,7 @@
 
 - 📝 I regulary write articles on [Tulisan Randy](https://www.randynetworks.club/notes/)
 
-- 🎧 I do Podcast on [Dari Randy](https://www.randynetworks.club/projects/)
+- 🎧 I do Podcast on [Dari Randy](https://www.randynetworks.club/podcasts/)
 
 - 📫 How to reach me **randyramadhan1973@gmail.com**
 
