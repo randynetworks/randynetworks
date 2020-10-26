@@ -5,9 +5,11 @@
 
 - 🔭 I’m currently working on [Ayoboga Education](https://ayoboga.com/)
 
-- 👨‍💻 All of my projects are available at [https://randynetworks.club/](https://randynetworks.club/)
+- 👨‍💻 All of my projects are available at [Project Randy](https://www.randynetworks.club/podcasts/)
 
-- 📝 I regulary write articles on [https://randynetworks.club/](https://randynetworks.club/)
+- 📝 I regulary write articles on [Tulisan Randy](https://www.randynetworks.club/notes/)
+
+- 🎧 I do Podcast on [Dari Randy](https://www.randynetworks.club/projects/)
 
 - 📫 How to reach me **randyramadhan1973@gmail.com**
 
