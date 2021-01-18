@@ -6,7 +6,7 @@
   </div>
   <h1>Привет! 👋🏻
     <br>Saya Randy.
-  </h1><p>Suka ngoding, ngebuat buat 🔬<a href="/projects"><u><b>Project</b></u></a>, ada ✍🏻<a class="text-dark m-2" href="/notes"><u><b>Tulisan</b></u></a> dan ada🎙️<a class="text-dark m-2" href="/podcasts"><u><b>Podcast</b></u></a> juga yang bisa kamu denger. Semuanya untuk saya dimasa depan.
+  </h1><p>Suka ngoding, ngebuat buat 🔬<a href="https://randynetworks.club/projects"><u><b>Project</b></u></a>, ada ✍🏻<a class="text-dark m-2" href="https://randynetworks.club/notes"><u><b>Tulisan</b></u></a> dan ada🎙️<a class="text-dark m-2" href="https://randynetworks.club/podcasts"><u><b>Podcast</b></u></a> juga yang bisa kamu denger. Semuanya untuk saya dimasa depan.
   <br><br>
   Sosial Media : 
   <br>
